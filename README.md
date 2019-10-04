@@ -1,2 +1,2 @@
 # SourceData
-### tThis repository is to store the data used in NEJR codes.
+### This repository is to store the data used in NEJR codes.
